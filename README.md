@@ -76,6 +76,8 @@
   </a>
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iabhinav108" alt="iabhinav108" /></a> </p>
+
 ###
 
 <br clear="both">
@@ -90,6 +92,12 @@
 </div>
 
 ###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iabhinav108&show_icons=true&locale=en&layout=compact" alt="iabhinav108" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iabhinav108&show_icons=true&locale=en" alt="iabhinav108" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iabhinav108&" alt="iabhinav108" /></p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/iabhinav108/count.svg?"  />
