@@ -12,17 +12,15 @@
 
 ###
 
-<h5 align="left">AIQUANTUM Smart Solutions Pvt. Ltd.<br>    ->Machine Learning and Deep Learning Training and Internship</h5>
+<h4 align="left">AIQUANTUM Smart Solutions Pvt. Ltd.<br>    ->Machine Learning and Deep Learning Training and Internship</h4>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">🧠 Skills & Interests</h2>
 
 ###
 
-<h5 align="left">Programming: Python, C++, Java<br><br>Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-Learn<br><br>Computer Vision: OpenCV, Image Processing<br><br>Natural Language Processing: Transformers, BERT, LSTMs<br><br>Databases: SQL (Basic), Open to learning more<br><br>MLOps: Model Deployment, CI/CD, Monitoring, Docker<br><br>Cloud Platforms: Google Cloud, Azure (Basic)<br><br>Tools & Frameworks: FastAPI, Flask, Streamlit, Git, Docker<br><br>Projects: Computer Vision, NLP, Medical AI, and more!</h5>
+<h4 align="left">Programming: Python, C++, Java<br><br>Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-Learn<br><br>Computer Vision: OpenCV, Image Processing<br><br>Natural Language Processing: Transformers, BERT, LSTMs<br><br>Databases: SQL (Basic), Open to learning more<br><br>MLOps: Model Deployment, CI/CD, Monitoring, Docker<br><br>Cloud Platforms: Google Cloud, Azure (Basic)<br><br>Tools & Frameworks: FastAPI, Flask, Streamlit, Git, Docker<br><br>Projects: Computer Vision, NLP, Medical AI, and more!</h4>
 
 ###
 
@@ -74,6 +72,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VzbG9qZjUwOWk1M2g2cHZoOTN4b3IxcDVoaDB0dm82cHZoYTg1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abhinav2520/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -85,12 +89,6 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VzbG9qZjUwOWk1M2g2cHZoOTN4b3IxcDVoaDB0dm82cHZoYTg1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
 
