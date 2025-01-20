@@ -10,13 +10,15 @@
 
 <br clear="both">
 
-<h3 align="left">Skills & Interests</h3>
+<h3 align="left">🧠 Skills & Interests</h3>
 
 ###
 
 <h5 align="left">Programming: Python, C++, Java<br><br>Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-Learn<br><br>Computer Vision: OpenCV, Image Processing<br><br>Natural Language Processing: Transformers, BERT, LSTMs<br><br>Databases: SQL (Basic), Open to learning more<br><br>MLOps: Model Deployment, CI/CD, Monitoring, Docker<br><br>Cloud Platforms: Google Cloud, Azure (Basic)<br><br>Tools & Frameworks: FastAPI, Flask, Streamlit, Git, Docker<br><br>Projects: Computer Vision, NLP, Medical AI, and more!</h5>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
@@ -74,9 +76,13 @@
   <a href="https://www.linkedin.com/in/abhinav2520/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://www.hackerrank.com/profile/iabhinav108" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://medium.com/@iabhinav108" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
 </div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iabhinav108" alt="iabhinav108" /></a> </p>
 
 ###
 
@@ -84,12 +90,14 @@
 
 <img src="https://raw.githubusercontent.com/iabhinav108/iabhinav108/output/snake.svg" alt="Snake animation" />
 
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iabhinav108&show_icons=true&locale=en&layout=compact" alt="iabhinav108" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iabhinav108&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iabhinav108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iabhinav108&show_icons=true&locale=en" alt="iabhinav108" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iabhinav108&" alt="iabhinav108" /></p>
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/iabhinav108/count.svg?"  />
