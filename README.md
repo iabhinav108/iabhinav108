@@ -8,9 +8,17 @@
 
 ###
 
+<h2 align="left">💼 Internship Experience</h2>
+
+###
+
+<h5 align="left">AIQUANTUM Smart Solutions Pvt. Ltd.<br>    ->Machine Learning and Deep Learning Training and Internship</h5>
+
+###
+
 <br clear="both">
 
-<h3 align="left">🧠 Skills & Interests</h3>
+<h2 align="left">🧠 Skills & Interests</h2>
 
 ###
 
@@ -66,13 +74,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VzbG9qZjUwOWk1M2g2cHZoOTN4b3IxcDVoaDB0dm82cHZoYTg1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/abhinav2520/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -88,6 +90,12 @@
 
 <br clear="both">
 
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VzbG9qZjUwOWk1M2g2cHZoOTN4b3IxcDVoaDB0dm82cHZoYTg1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/iabhinav108/iabhinav108/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -96,6 +104,30 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iabhinav108&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iabhinav108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">🔬 Research Work</h2>
+
+###
+
+<h4 align="left">DisasterFormer: An Enhanced Transformer with Edge-Guided Attention for Disaster Image Recognition – Accepted at IATMSI-2025.</h4>
+
+###
+
+<h2 align="left">🏆 Achievements</h2>
+
+###
+
+<h4 align="left">o HackCBS 7.0: Recognized for innovation and selected among the best in the Vultr Title Sponsor Track, demonstrating technical excellence and impactful problem-solving.<br><br>o HackWars Hackathon at Chandigarh University: Contributed significantly to a team's Top 50 finish out of 1500+ teams nationwide, advancing to the offline showcase round.<br><br>o 5 Star (Gold Badge) for C++, Java, and Python on HackerRank.</h4>
+
+###
+
+<h2 align="left">📈 My Learning Goals</h2>
+
+###
+
+<h4 align="left">o Improve my Data Structures & Algorithms skills 🚀<br><br>o Gain deeper expertise in MLOps and Model Deployment<br><br>o Explore Generative AI & Large Language Models<br><br>o Work on Scalable AI Systems</h4>
 
 ###
 
