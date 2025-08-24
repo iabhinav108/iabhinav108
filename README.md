@@ -43,7 +43,7 @@
 
 ###
 
-<h4 align="left">I’m Abhinav Srivastava, currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence at Bennett University, where I hold a CGPA of 8.17. My journey began with traditional machine learning and computer vision, working on problems like medical image analysis and anomaly detection. Over time, I’ve advanced into deep learning, transformers, and multimodal AI—developing systems for healthcare, law, and creative applications. More recently, I’ve been exploring Generative AI and efficient vision transformers, with a strong focus on building solutions that are accurate, explainable, and practical for real-world use.</h4>
+<h4 align="left">I’m Abhinav Srivastava, B.Tech CSE (AI specialization) student at Bennett University with a CGPA of 8.17.<br>My journey spans traditional ML and computer vision to deep learning, transformers, and multimodal AI systems. Currently exploring Generative AI and efficient vision transformers to build accurate, explainable, and real-world solutions.</h4>
 
 ###
 
