@@ -33,8 +33,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">About Me:</h3>
 
 ###
@@ -52,5 +50,9 @@
 ###
 
 <p align="left">Designed and optimized deep learning models for medical imaging and satellite vision tasks.<br><br>Achieved 97.5% accuracy in liver cancer histopathology classification using a custom ResNet-50, setting a dataset benchmark.<br><br>Worked with TensorFlow, OpenCV, Python on end-to-end AI pipelines.</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
