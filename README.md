@@ -33,8 +33,6 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="center"></h1>
 
 ###
@@ -79,8 +77,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">EffiCoordNet: Towards Lightweight and Accurate Violence Detection from Single Video Frames Using Coordinate-Aware Networks – Ready for paper submission (Conference paper)</h4>
 
 ###
@@ -92,8 +88,6 @@
 <h3 align="left">Languages:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
@@ -110,8 +104,6 @@
 <h3 align="left">Frameworks:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="25" alt="pytorch logo"  />
@@ -136,8 +128,6 @@
 <h3 align="left">Tools / Platforms:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
