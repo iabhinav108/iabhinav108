@@ -146,3 +146,43 @@
 </div>
 
 ###
+
+<h2 align="left">Achievements</h2>
+
+###
+
+<h4 align="left">-> Delivered 97.5% accuracy benchmark in liver histopathology classification during internship.<br>-> Reached Top 50 in HackWars Hackathon (out of 1500+ teams).<br>-> Project recognized for innovation in HackCBS 7.0 (Vultr Track).<br>-> In 2025, I submitted three peer-reviewed conference papers and am currently engaged in several additional research projects, with a greater emphasis on journal publication.<br>-> Solved 100+ DSA/CP problems across LeetCode, GFG, HackerRank.</h4>
+
+###
+
+<h2 align="left">Beyond Tech</h2>
+
+###
+
+<h3 align="left">Outside of coding and research, I’m deeply interested in geopolitics and history. I spend a lot of time watching podcasts, listening to music, and I enjoy long walks that help me think and reset.</h3>
+
+###
+
+<h2 align="left">My GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iabhinav108&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iabhinav108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iabhinav108&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h3 align="left">Why are they eating my working days??</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iabhinav108/iabhinav108/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iabhinav108/iabhinav108/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iabhinav108/iabhinav108/output/pacman-contribution-graph.svg">
+</picture>
+
+###
