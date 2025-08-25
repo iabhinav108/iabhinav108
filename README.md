@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">I’m Abhinav Srivastava, B.Tech CSE (AI specialization) student at Bennett University with a CGPA of 8.17. My journey spans traditional ML and computer vision to deep learning, transformers, and multimodal AI systems. Currently exploring Generative AI and efficient vision transformers to build accurate, explainable, and real-world solutions.</h3>
+<h3 align="left">I’m Abhinav Srivastava, B.Tech CSE (AI specialization) student at Bennett University. My journey spans traditional ML and computer vision to deep learning, transformers, and multimodal AI systems. Currently exploring Generative AI and efficient vision transformers to build accurate, explainable, and real-world solutions.</h3>
 
 ###
 
@@ -60,6 +60,28 @@
 ###
 
 <h4 align="left">-> Designed and optimized deep learning models for medical imaging and satellite vision tasks.<br>-> Achieved 97.5% accuracy in liver cancer histopathology classification using a custom ResNet-50, setting a dataset benchmark.<br>-> Worked with TensorFlow, OpenCV, Python on end-to-end AI pipelines.</h4>
+
+###
+
+<h2 align="left">Research & Publication</h2>
+
+###
+
+<h4 align="left">DisasterFormer: An Enhanced Transformer with Edge-Guided Attention for Disaster Image Recognition - Published at <br>IATMSI-2025 (Conference Paper) | DOI: https://doi.org/10.1109/IATMSI64286.2025.10985468</h4>
+
+###
+
+<h4 align="left">TriVerseNet: Multi-Branch ResNet Framework for Enhanced Endoscopic Lesion Classification via Edge and Texture <br>Integration - Published at NETCRYPT-25 (Conference Paper) | DOI: https://doi.org/10.1109/NETCRYPT65877.2025.11102233</h4>
+
+###
+
+<h4 align="left">A Small-Scale ConvNeXt Variant Optimized for Pneumonia Classification on Chest X-Ray Images – Accepted and <br>Presented at IACIS-2025 (Conference Paper)</h4>
+
+###
+
+<br clear="both">
+
+<h4 align="left">EffiCoordNet: Towards Lightweight and Accurate Violence Detection from Single Video Frames Using Coordinate-Aware Networks – Ready for paper submission (Conference paper)</h4>
 
 ###
 
