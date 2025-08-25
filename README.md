@@ -68,11 +68,8 @@
 ###
 
 <h3 align="left">Languages:</h3>
-
 ###
-
 <br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
   <img width="10" />
@@ -82,15 +79,10 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
 </div>
-
 ###
-
 <h3 align="left">Frameworks:</h3>
-
 ###
-
 <br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="25" alt="pytorch logo"  />
   <img width="10" />
@@ -108,15 +100,10 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="25" alt="css logo"  />
 </div>
-
 ###
-
 <h3 align="left">Tools / Platforms:</h3>
-
 ###
-
 <br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
   <img width="10" />
@@ -132,5 +119,4 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
 </div>
-
 ###
