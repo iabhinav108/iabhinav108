@@ -65,19 +65,19 @@
 
 ###
 
-<h4 align="left">DisasterFormer: An Enhanced Transformer with Edge-Guided Attention for Disaster Image Recognition - Published at <br>IATMSI-2025 (Conference Paper) | DOI: https://doi.org/10.1109/IATMSI64286.2025.10985468</h4>
+<h4 align="left">1. DisasterFormer: An Enhanced Transformer with Edge-Guided Attention for Disaster Image Recognition - Published at <br>IATMSI-2025 (Conference Paper) | DOI: https://doi.org/10.1109/IATMSI64286.2025.10985468</h4>
 
 ###
 
-<h4 align="left">TriVerseNet: Multi-Branch ResNet Framework for Enhanced Endoscopic Lesion Classification via Edge and Texture <br>Integration - Published at NETCRYPT-25 (Conference Paper) | DOI: https://doi.org/10.1109/NETCRYPT65877.2025.11102233</h4>
+<h4 align="left">2. TriVerseNet: Multi-Branch ResNet Framework for Enhanced Endoscopic Lesion Classification via Edge and Texture <br>Integration - Published at NETCRYPT-25 (Conference Paper) | DOI: https://doi.org/10.1109/NETCRYPT65877.2025.11102233</h4>
 
 ###
 
-<h4 align="left">A Small-Scale ConvNeXt Variant Optimized for Pneumonia Classification on Chest X-Ray Images – Accepted and <br>Presented at IACIS-2025 (Conference Paper)</h4>
+<h4 align="left">3. A Small-Scale ConvNeXt Variant Optimized for Pneumonia Classification on Chest X-Ray Images – Accepted and <br>Presented at IACIS-2025 (Conference Paper)</h4>
 
 ###
 
-<h4 align="left">EffiCoordNet: Towards Lightweight and Accurate Violence Detection from Single Video Frames Using Coordinate-Aware Networks – Ready for paper submission (Conference paper)</h4>
+<h4 align="left">4. EffiCoordNet: Towards Lightweight and Accurate Violence Detection from Single Video Frames Using Coordinate-Aware Networks – Ready for paper submission (Conference paper)</h4>
 
 ###
 
