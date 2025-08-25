@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="left">-> Designed and optimized deep learning models for medical imaging and satellite vision tasks.<br>-> Achieved 97.5% accuracy in liver cancer histopathology classification using a custom ResNet-50, setting a dataset benchmark.<br>-> Worked with TensorFlow, OpenCV, Python on end-to-end AI pipelines.</h3>
+<p align="left">-> Designed and optimized deep learning models for medical imaging and satellite vision tasks.<br>-> Achieved 97.5% accuracy in liver cancer histopathology classification using a custom ResNet-50, setting a dataset benchmark.<br>-> Worked with TensorFlow, OpenCV, Python on end-to-end AI pipelines.</p>
 
 ###
 
@@ -151,7 +151,7 @@
 
 ###
 
-<h3 align="left">-> Delivered 97.5% accuracy benchmark in liver histopathology classification during internship.<br>-> Reached Top 50 in HackWars Hackathon (out of 1500+ teams).<br>-> Project recognized for innovation in HackCBS 7.0 (Vultr Track).<br>-> In 2025, I submitted three peer-reviewed conference papers and am currently engaged in several additional research projects, with a greater emphasis on journal publication.<br>-> Solved 100+ DSA/CP problems across LeetCode, GFG, HackerRank.</h3>
+<p align="left">-> Delivered 97.5% accuracy benchmark in liver histopathology classification during internship.<br>-> Reached Top 50 in HackWars Hackathon (out of 1500+ teams).<br>-> Project recognized for innovation in HackCBS 7.0 (Vultr Track).<br>-> In 2025, I submitted three peer-reviewed conference papers and am currently engaged in several additional research projects, with a greater emphasis on journal publication.<br>-> Solved 100+ DSA/CP problems across LeetCode, GFG, HackerRank.</p>
 
 ###
 
