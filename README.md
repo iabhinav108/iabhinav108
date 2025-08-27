@@ -73,7 +73,7 @@
 
 ###
 
-<h4 align="left">3. A Small-Scale ConvNeXt Variant Optimized for Pneumonia Classification on Chest X-Ray Images – Accepted and <br>Presented at IACIS-2025 (Conference Paper)</h4>
+<h4 align="left">3. Small-Scale ConvNeXt Variant Optimized for Pneumonia Classification on Chest X-Ray Images – Accepted and <br>Presented at IACIS-2025 (Conference Paper)</h4>
 
 ###
 
