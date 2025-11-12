@@ -77,7 +77,7 @@
 
 ###
 
-<h4 align="left">4. EffiCoordNet: Towards Lightweight and Accurate Violence Detection from Single Video Frames Using Coordinate-Aware Networks – Ready for paper submission (Conference paper)</h4>
+<h4 align="left">4. EffiCoordNet: Towards Lightweight and Accurate Violence Detection from Single Video Frames Using Coordinate-Aware Networks – Accepted and <br>Presented at CISES-2025 (Conference Paper)</h4>
 
 ###
 
