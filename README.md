@@ -73,11 +73,11 @@
 
 ###
 
-<h4 align="left">3. Small-Scale ConvNeXt Variant Optimized for Pneumonia Classification on Chest X-Ray Images – Published at <br>IACIS-2025 (Conference Paper)</h4>
+<h4 align="left">3. Small-Scale ConvNeXt Variant Optimized for Pneumonia Classification on Chest X-Ray Images – Published at <br>IACIS-2025 (Conference Paper) | DOI: https://doi.org/10.1109/IACIS65746.2025.11211139</h4>
 
 ###
 
-<h4 align="left">4. EffiCoordNet: Towards Lightweight and Accurate Violence Detection from Single Video Frames Using Coordinate-Aware Networks – Accepted and <br>Presented at CISES-2025 (Conference Paper)</h4>
+<h4 align="left">4. EffiCoordNet: Towards Lightweight and Accurate Violence Detection from Single Video Frames Using Coordinate-Aware Networks – Published at CISES-2025 (Conference Paper) | DOI: https://doi.org/10.1109/CISES66934.2025.11265571</h4>
 
 ###
 
